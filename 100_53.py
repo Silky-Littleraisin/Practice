@@ -23,7 +23,7 @@ def parse_nlp():
             check=True      # エラーチェックあり
         )
 
-# nlp.txtを解析
+ nlp.txtを解析
 parse_nlp()
 
 
