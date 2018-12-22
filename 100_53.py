@@ -4,6 +4,7 @@ import subprocess
 import xml.etree.ElementTree as ET
 
 fname = 'nlp.txt'
+
 fname_parsed = 'nlp.txt.xml'
 
 def parse_nlp():
