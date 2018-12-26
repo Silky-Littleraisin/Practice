@@ -1,6 +1,5 @@
 ﻿# coding: utf-8
 import gzip
-
 import json
 import leveldb
 
