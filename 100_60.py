@@ -9,7 +9,7 @@ fname_db = 'test_db'
 # LevelDBオープン、なければ作成
 db = leveldb.DB(bytes("/Users/silky/Documents/GitHub/Practice/level_test", "ascii"),create_if_missing=True)
 
-# gzファイル読み込み、パース
+ gzファイル読み込み、パース
 with gzip.open(fname, 'rt') as data_file:
     for line in data_file:
         data_json = json.loads(line)
