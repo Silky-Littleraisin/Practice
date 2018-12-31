@@ -21,5 +21,4 @@ with gzip.open(fname, 'rt') as data_file:
 
 
 # 確認のため登録件数を表示
-
 print('{}件登録しました。'.format(len(list(db.keys()))))
