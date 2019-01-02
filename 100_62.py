@@ -1,4 +1,4 @@
-# coding: utf-8
+﻿# coding: utf-8
 import leveldb
 import gzip
 import json
@@ -21,4 +21,5 @@ for key in db.keys():
         
 
 # 件数表示
+
 print('{}件'.format(len(result)))
