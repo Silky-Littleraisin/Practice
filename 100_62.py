@@ -4,7 +4,6 @@ import gzip
 import json
 
 fname = 'artist.json.gz'
-
 fname_db = 'test_db'
 
 # LevelDBオープン
