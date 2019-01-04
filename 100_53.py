@@ -18,6 +18,7 @@ def parse_nlp():
             ' -Xmx2g'
             ' edu.stanford.nlp.pipeline.StanfordCoreNLP'
             ' -annotators tokenize,ssplit,pos,lemma,ner,parse,dcoref'
+
             ' -file ' + fname + ' 2>parse.out',
             shell=True,     # shellで実行
             check=True      # エラーチェックあり
