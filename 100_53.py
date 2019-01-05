@@ -6,6 +6,7 @@ fname = 'nlp.txt'
 fname_parsed = 'nlp.txt.xml'
 
 def parse_nlp():
+
     '''nlp.txtをStanford Core NLPで解析しxmlファイルへ出力
     すでに結果ファイルが存在する場合は実行しない    '''
     if not os.path.exists(fname_parsed):
