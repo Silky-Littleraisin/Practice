@@ -8,6 +8,7 @@ def nlp_lines():
     nlp.txtを順次読み込んで1文ずつ返す
 
     戻り値：
+
     1文の文字列
     '''
     with open(fname) as lines:
