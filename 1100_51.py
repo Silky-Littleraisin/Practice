@@ -40,7 +40,7 @@ def nlp_lines():
                  
                 
                 
-def nlp_words():
+#def nlp_words():
 
     '''nlp.txtを1単語ずつ返すジェネレータ
     文の終わりでは空文字を返す。
