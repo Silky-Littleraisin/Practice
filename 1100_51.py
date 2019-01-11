@@ -5,6 +5,7 @@ fname='nlp.txt'
 
 def nlp_lines():
     ''' nlp.txtを1文ずつ読み込むジェネレータ
+
     nlp.txtを順次読み込んで1文ずつ返す
 
     戻り値：
