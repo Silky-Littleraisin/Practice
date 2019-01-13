@@ -1,7 +1,7 @@
-# coding utf-8
+﻿# coding utf-8
 import re
 
-fname = 'nlp.txt'
+#fname = 'nlp.txt'
 
 def nlp_lines():
 
