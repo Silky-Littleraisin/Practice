@@ -35,5 +35,5 @@ def nlp_lines():
                 else:
                     yield line
                     line=''
-for line in nlp_lines():
+#for line in nlp_lines():
     print (line)
