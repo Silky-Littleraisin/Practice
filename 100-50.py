@@ -33,6 +33,7 @@ def nlp_lines():
                     line=match.group(2)
 
                 else:
+
                     yield line
                     line=''
 for line in nlp_lines():
