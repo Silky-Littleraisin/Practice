@@ -32,7 +32,7 @@ def nlp_lines():
                     yield match.group(1)
                     line=match.group(2)
 
-                else:
+                #else:
                     yield line
                     line=''
 for line in nlp_lines():
