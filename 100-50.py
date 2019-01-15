@@ -30,7 +30,6 @@ def nlp_lines():
                 if match:
 
                     yield match.group(1)
-
                     line=match.group(2)
 
                 else:
