@@ -19,7 +19,6 @@ def nlp_lines():
         \s
         (
             [A-Z].*
-
         )
         ''',re.MULTILINE+re.VERBOSE + re.DOTALL)
 
