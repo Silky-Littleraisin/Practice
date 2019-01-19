@@ -24,6 +24,7 @@ def nlp_lines():
 
         for line in lines:
             line = line.strip()
+
             while len(line) > 0:
 
                 match= pattern.match(line)
