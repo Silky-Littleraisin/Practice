@@ -11,7 +11,7 @@ def parse_nlp():
     すでに結果ファイルが存在する場合は実行しない    '''
     if not os.path.exists(fname_parsed):
 
-         StanfordCoreNLP実行、標準エラーはparse.outへ出力
+        # StanfordCoreNLP実行、標準エラーはparse.outへ出力
 
         subprocess.run(
             'java -cp "/usr/local/lib/stanford-corenlp-full-2018-10-05/*"'
