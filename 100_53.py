@@ -13,7 +13,7 @@ def parse_nlp():
 
         # StanfordCoreNLP実行、標準エラーはparse.outへ出力
 
-        subprocess.run(
+        #subprocess.run(
             'java -cp "/usr/local/lib/stanford-corenlp-full-2018-10-05/*"'
             ' -Xmx2g'
             ' edu.stanford.nlp.pipeline.StanfordCoreNLP'
