@@ -33,5 +33,4 @@ root = ET.parse(fname_parsed)
 
 # wordのみ取り出し
 for word in root.iter('word'):
-    
-print(word.text)
+    print(word.text)
