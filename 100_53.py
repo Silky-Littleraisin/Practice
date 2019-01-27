@@ -28,7 +28,7 @@ parse_nlp()
 
 
 # 解析結果のxmlをパース
-root = ET.parse(fname_parsed)
+#root = ET.parse(fname_parsed)
 
 
 # wordのみ取り出し
