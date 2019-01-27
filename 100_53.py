@@ -28,7 +28,6 @@ parse_nlp()
 
 
 # 解析結果のxmlをパース
-
 root = ET.parse(fname_parsed)
 
 
