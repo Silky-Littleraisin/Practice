@@ -24,6 +24,7 @@ def parse_nlp():
         )
 
 # nlp.txtを解析
+
 parse_nlp()
 
 
