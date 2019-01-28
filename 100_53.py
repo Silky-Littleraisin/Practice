@@ -24,7 +24,7 @@ def parse_nlp():
         )
 
 # nlp.txtを解析
-parse_nlp()
+#parse_nlp()
 
 
 # 解析結果のxmlをパース
