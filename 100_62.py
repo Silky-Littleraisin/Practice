@@ -20,5 +20,5 @@ for key in db.keys():
         
         
 
-# 件数表示
+ 件数表示
 print('{}件'.format(len(result)))
