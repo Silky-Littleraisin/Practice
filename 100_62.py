@@ -1,7 +1,7 @@
 ﻿# coding: utf-8
 import leveldb
 import gzip
-#import json
+import json
 
 fname = 'artist.json.gz'
 fname_db = 'test_db'
