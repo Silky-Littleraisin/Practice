@@ -4,7 +4,7 @@ import gzip
 import json
 
 fname = 'artist.json.gz'
-fname_db = 'test_db'
+#fname_db = 'test_db'
 
 # LevelDBオープン
 db = leveldb.DB(bytes("/Users/silky/Documents/GitHub/Practice/level_test", "ascii"),create_if_missing=True)
