@@ -17,8 +17,7 @@ for key in db.keys():
     if db.get(key) == clue:
         result.append(key)
 
-        
-        
+               
 
 # 件数表示
 print('{}件'.format(len(result)))
