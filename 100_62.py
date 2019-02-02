@@ -11,7 +11,7 @@ db = leveldb.DB(bytes("/Users/silky/Documents/GitHub/Practice/level_test", "asci
 result=[]
 
 # valueが'Japan'のものを列挙
-#clue = 'Japan'.encode()
+clue = 'Japan'.encode()
 #result = [key.decode() for key,value in db if value == clue]
 for key in db.keys():
     if db.get(key) == clue:
