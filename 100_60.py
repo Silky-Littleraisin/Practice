@@ -7,6 +7,7 @@ fname = 'artist.json.gz'
 fname_db = 'test_db'
 
 # LevelDBオープン、なければ作成
+
 db = leveldb.DB(bytes("/Users/silky/Documents/GitHub/Practice/level_test", "ascii"),create_if_missing=True)
 
 # gzファイル読み込み、パース
