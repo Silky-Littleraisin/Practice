@@ -16,7 +16,7 @@ with gzip.open(fname, 'rt') as data_file:
 
         # key=name+id、value=areaとしてDBへ追加
         key = data_json['name'] + '\t' + str(data_json['id'])
-       # value = data_json.get('area', '')       
+        value = data_json.get('area', '')       
 # areaはないことがある
         db.put(key.encode(), value.encode())
 
