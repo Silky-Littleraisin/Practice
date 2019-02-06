@@ -14,7 +14,7 @@ result=[]
 clue = 'Japan'.encode()
 #result = [key.decode() for key,value in db if value == clue]
 for key in db.keys():
-    if db.get(key) == clue:
+    #if db.get(key) == clue:
         result.append(key)
 
         
