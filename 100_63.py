@@ -8,6 +8,7 @@ fname = 'artist.json.gz'
 fname_db = 'test_db'
 
 # keyをnameとidに分解するための正規表現
+
 pattern = re.compile(r'''
     ^
     (.*)    # name
