@@ -1,4 +1,4 @@
-# coding: utf-8
+﻿# coding: utf-8
 import gzip
 import json
 import re
@@ -8,7 +8,7 @@ fname = 'artist.json.gz'
 fname_db = 'test_db'
 
 # keyをnameとidに分解するための正規表現
-pattern = re.compile(r'''
+#pattern = re.compile(r'''
     ^
     (.*)    # name
     \t      # 区切り
