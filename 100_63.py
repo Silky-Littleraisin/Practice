@@ -2,7 +2,7 @@
 import gzip
 import json
 import re
-#import leveldb
+import leveldb
 
 fname = 'artist.json.gz'
 fname_db = 'test_db'
