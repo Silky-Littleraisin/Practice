@@ -5,7 +5,7 @@ import re
 import leveldb
 
 fname = 'artist.json.gz'
-#fname_db = 'test_db'
+fname_db = 'test_db'
 
 # keyをnameとidに分解するための正規表現
 pattern = re.compile(r'''
