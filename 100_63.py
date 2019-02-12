@@ -17,7 +17,6 @@ pattern = re.compile(r'''
     ''', re.VERBOSE + re.DOTALL)
 
 # LevelDBオープン、ない時だけ作成
-
 #try:
 db = leveldb.DB(bytes("/Users/silky/Documents/GitHub/Practice/level_test", "ascii"),create_if_missing=True)
 
