@@ -11,6 +11,7 @@ fname_db = 'test_db'
 pattern = re.compile(r'''
     ^
     (.*)    # name
+
     \t      # 区切り
     (\d+)   # id
     $
