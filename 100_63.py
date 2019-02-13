@@ -18,7 +18,7 @@ pattern = re.compile(r'''
 
 # LevelDBオープン、ない時だけ作成
 #try:
-db = leveldb.DB(bytes("/Users/silky/Documents/GitHub/Practice/level_test", "ascii"),create_if_missing=True)
+#db = leveldb.DB(bytes("/Users/silky/Documents/GitHub/Practice/level_test", "ascii"),create_if_missing=True)
 
     # gzファイル読み込み、パース
 with gzip.open(fname, 'rt') as data_file:
