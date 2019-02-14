@@ -13,7 +13,6 @@ pattern = re.compile(r'''
     (.*)    # name
     \t      # 区切り
     (\d+)   # id
-
     $
     ''', re.VERBOSE + re.DOTALL)
 
