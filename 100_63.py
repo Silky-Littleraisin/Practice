@@ -26,7 +26,6 @@ with gzip.open(fname, 'rt') as data_file:
             data_json = json.loads(line)
 
             # name+idとtagsをDBへ追加
-
             key = data_json['name'] + '\t' + str(data_json['id'])
             value = data_json.get('tags')       # tagsはないことがあるのでチェック
             if value is None:
