@@ -22,7 +22,7 @@ db = leveldb.DB(bytes("/Users/silky/Documents/GitHub/Practice/level_test", "asci
 
     # gzファイル読み込み、パース
 with gzip.open(fname, 'rt') as data_file:
-        for line in data_file:
+        #for line in data_file:
             data_json = json.loads(line)
 
             # name+idとtagsをDBへ追加
