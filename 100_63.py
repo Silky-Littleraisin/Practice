@@ -30,7 +30,6 @@ with gzip.open(fname, 'rt') as data_file:
             value = data_json.get('tags')       # tagsはないことがあるのでチェック
             if value is None:
                 value = []
-
             db.put(key.encode(), json.dumps(value).encode())
 
     # 確認のため登録件数を表示
