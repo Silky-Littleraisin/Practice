@@ -37,7 +37,8 @@ print('{}件登録しました。'.format(len(list(db.keys()))))
 
 #except:
   #  db = leveldb.DB(bytes("/Users/silky/Documents/GitHub/Practice/level_test", "ascii"),create_if_missing=True)
-   # print('既存のDBを使います。')
+   
+# print('既存のDBを使います。')
 
 # 条件入力
 clue = input("アーティスト名を入力してください--> ")
