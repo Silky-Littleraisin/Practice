@@ -57,7 +57,7 @@ for key in db.keys():
         value=db.get(key)
     # 異なるアーティストになったら終了
    # if name != clue:
-     #   break
+        break
 
     # タグ情報取得
     #with gzip.open(fname, 'rt') as data_file:
