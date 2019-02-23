@@ -51,7 +51,7 @@ for key in db.keys():
 
     # keyをnameとidに戻す
     match = pattern.match(key.decode())
-    if match.group(1)==clue:
+    #if match.group(1)==clue:
         name = match.group(1)
         id = match.group(2)
         value=db.get(key)
