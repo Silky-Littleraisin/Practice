@@ -61,7 +61,6 @@ for key in db.keys():
 
     # タグ情報取得
     #with gzip.open(fname, 'rt') as data_file:
-
      #   for line in data_file:
         tags = json.loads(value.decode())
 
