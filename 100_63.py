@@ -54,7 +54,6 @@ for key in db.keys():
     if match.group(1)==clue:
         name = match.group(1)
         id = match.group(2)
-
         value=db.get(key)
     # 異なるアーティストになったら終了
    # if name != clue:
