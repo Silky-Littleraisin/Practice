@@ -71,7 +71,7 @@ for key in db.keys():
                  print('\t{}({})'.format(tag['value'], tag['count']))
         else:
                  print('\tタグはありません')
-        #hit = True
+        hit = True
 
         if not hit:
             print('{}は登録されていません'.format(clue))
