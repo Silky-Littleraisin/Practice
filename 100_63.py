@@ -69,7 +69,7 @@ for key in db.keys():
         if len(tags) > 0:
             for tag in tags:
                  print('\t{}({})'.format(tag['value'], tag['count']))
-        #else:
+        else:
                  print('\tタグはありません')
         hit = True
 
