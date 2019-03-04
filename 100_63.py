@@ -73,5 +73,5 @@ for key in db.keys():
                  print('\tタグはありません')
         hit = True
 
-        #if not hit:
+        if not hit:
             print('{}は登録されていません'.format(clue))
