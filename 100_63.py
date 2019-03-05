@@ -68,7 +68,7 @@ for key in db.keys():
         print('{}(id:{})のタグ情報:'.format(name, id))
         if len(tags) > 0:
             for tag in tags:
-                 #print('\t{}({})'.format(tag['value'], tag['count']))
+                 print('\t{}({})'.format(tag['value'], tag['count']))
         else:
                  print('\tタグはありません')
         hit = True
