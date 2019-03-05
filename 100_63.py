@@ -70,7 +70,7 @@ for key in db.keys():
             for tag in tags:
                  print('\t{}({})'.format(tag['value'], tag['count']))
         else:
-                 #print('\tタグはありません')
+                 print('\tタグはありません')
         hit = True
 
         if not hit:
