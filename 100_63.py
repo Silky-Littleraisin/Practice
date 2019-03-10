@@ -33,7 +33,6 @@ with gzip.open(fname, 'rt') as data_file:
             db.put(key.encode(), json.dumps(value).encode())
 
     # 確認のため登録件数を表示
-
 print('{}件登録しました。'.format(len(list(db.keys()))))
 
 #except:
