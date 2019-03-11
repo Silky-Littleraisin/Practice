@@ -40,7 +40,6 @@ print('{}件登録しました。'.format(len(list(db.keys()))))
    # print('既存のDBを使います。')
 
 # 条件入力
-
 clue = input("アーティスト名を入力してください--> ")
 hit = False
 
