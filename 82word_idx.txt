@@ -1,0 +1,786 @@
+Anarchism5
+(Anarchism	)
+[Anarchism	Anarchism	is	a	political	]
+Anarchism3
+(Anarchism	Anarchism	)
+[Anarchism	is	a	]
+is3
+(is	Anarchism	Anarchism	)
+[is	a	political	]
+a3
+(a	is	Anarchism	)
+[a	political	philosophy	]
+political5
+(political	a	is	Anarchism	Anarchism	)
+[political	philosophy	that	advocates	stateless	]
+philosophy5
+(philosophy	political	a	is	Anarchism	)
+[philosophy	that	advocates	stateless	societies	]
+that2
+(that	philosophy	)
+[that	advocates	]
+advocates2
+(advocates	that	)
+[advocates	stateless	]
+stateless4
+(stateless	advocates	that	philosophy	)
+[stateless	societies	often	defined	]
+societies2
+(societies	stateless	)
+[societies	often	]
+often4
+(often	societies	stateless	advocates	)
+[often	defined	as	self-governed	]
+defined5
+(defined	often	societies	stateless	advocates	)
+[defined	as	self-governed	voluntary	institutions	]
+as3
+(as	defined	often	)
+[as	self-governed	voluntary	]
+self-governed4
+(self-governed	as	defined	often	)
+[self-governed	voluntary	institutions	but	]
+voluntary5
+(voluntary	self-governed	as	defined	often	)
+[voluntary	institutions	but	that	several	]
+institutions5
+(institutions	voluntary	self-governed	as	defined	)
+[institutions	but	that	several	authors	]
+but3
+(but	institutions	voluntary	)
+[but	that	several	]
+that1
+(that	)
+[that	]
+several2
+(several	that	)
+[several	authors	]
+authors4
+(authors	several	that	but	)
+[authors	have	defined	as	]
+have5
+(have	authors	several	that	but	)
+[have	defined	as	more	specific	]
+defined3
+(defined	have	authors	)
+[defined	as	more	]
+as4
+(as	defined	have	authors	)
+[as	more	specific	institutions	]
+more4
+(more	as	defined	have	)
+[more	specific	institutions	based	]
+specific3
+(specific	more	as	)
+[specific	institutions	based	]
+institutions4
+(institutions	specific	more	as	)
+[institutions	based	on	non-hierarchical	]
+based5
+(based	institutions	specific	more	as	)
+[based	on	non-hierarchical	free	associations	]
+on5
+(on	based	institutions	specific	more	)
+[on	non-hierarchical	free	associations	Anarchism	]
+non-hierarchical1
+(non-hierarchical	)
+[non-hierarchical	]
+free3
+(free	non-hierarchical	on	)
+[free	associations	Anarchism	]
+associations2
+(associations	free	)
+[associations	Anarchism	]
+Anarchism5
+(Anarchism	associations	free	non-hierarchical	on	)
+[Anarchism	holds	the	state	to	]
+holds1
+(holds	)
+[holds	]
+the4
+(the	holds	Anarchism	associations	)
+[the	state	to	be	]
+state2
+(state	the	)
+[state	to	]
+to5
+(to	state	the	holds	Anarchism	)
+[to	be	undesirable	unnecessary	or	]
+be1
+(be	)
+[be	]
+undesirable3
+(undesirable	be	to	)
+[undesirable	unnecessary	or	]
+unnecessary5
+(unnecessary	undesirable	be	to	state	)
+[unnecessary	or	harmful	While	anti-statism	]
+or2
+(or	unnecessary	)
+[or	harmful	]
+harmful1
+(harmful	)
+[harmful	]
+While1
+(While	)
+[While	]
+anti-statism1
+(anti-statism	)
+[anti-statism	]
+is2
+(is	anti-statism	)
+[is	central	]
+central3
+(central	is	anti-statism	)
+[central	anarchism	entails	]
+anarchism5
+(anarchism	central	is	anti-statism	While	)
+[anarchism	entails	opposing	authority	or	]
+entails2
+(entails	anarchism	)
+[entails	opposing	]
+opposing3
+(opposing	entails	anarchism	)
+[opposing	authority	or	]
+authority4
+(authority	opposing	entails	anarchism	)
+[authority	or	hierarchical	organisation	]
+or5
+(or	authority	opposing	entails	anarchism	)
+[or	hierarchical	organisation	in	the	]
+hierarchical3
+(hierarchical	or	authority	)
+[hierarchical	organisation	in	]
+organisation3
+(organisation	hierarchical	or	)
+[organisation	in	the	]
+in4
+(in	organisation	hierarchical	or	)
+[in	the	conduct	of	]
+the3
+(the	in	organisation	)
+[the	conduct	of	]
+conduct5
+(conduct	the	in	organisation	hierarchical	)
+[conduct	of	human	relations	including	]
+of4
+(of	conduct	the	in	)
+[of	human	relations	including	]
+human4
+(human	of	conduct	the	)
+[human	relations	including	but	]
+relations4
+(relations	human	of	conduct	)
+[relations	including	but	not	]
+including2
+(including	relations	)
+[including	but	]
+but1
+(but	)
+[but	]
+not3
+(not	but	including	)
+[not	limited	to	]
+limited2
+(limited	not	)
+[limited	to	]
+to2
+(to	limited	)
+[to	the	]
+the2
+(the	to	)
+[the	state	]
+state4
+(state	the	to	limited	)
+[state	system	As	a	]
+system2
+(system	state	)
+[system	As	]
+As5
+(As	system	state	the	to	)
+[As	a	subtle	and	anti-dogmatic	]
+a2
+(a	As	)
+[a	subtle	]
+subtle2
+(subtle	a	)
+[subtle	and	]
+and5
+(and	subtle	a	As	system	)
+[and	anti-dogmatic	philosophy	anarchism	draws	]
+anti-dogmatic2
+(anti-dogmatic	and	)
+[anti-dogmatic	philosophy	]
+philosophy4
+(philosophy	anti-dogmatic	and	subtle	)
+[philosophy	anarchism	draws	on	]
+anarchism2
+(anarchism	philosophy	)
+[anarchism	draws	]
+draws2
+(draws	anarchism	)
+[draws	on	]
+on4
+(on	draws	anarchism	philosophy	)
+[on	many	currents	of	]
+many1
+(many	)
+[many	]
+currents3
+(currents	many	on	)
+[currents	of	thought	]
+of2
+(of	currents	)
+[of	thought	]
+thought4
+(thought	of	currents	many	)
+[thought	and	strategy	Anarchism	]
+and1
+(and	)
+[and	]
+strategy5
+(strategy	and	thought	of	currents	)
+[strategy	Anarchism	does	not	offer	]
+Anarchism1
+(Anarchism	)
+[Anarchism	]
+does5
+(does	Anarchism	strategy	and	thought	)
+[does	not	offer	a	fixed	]
+not2
+(not	does	)
+[not	offer	]
+offer3
+(offer	not	does	)
+[offer	a	fixed	]
+a3
+(a	offer	not	)
+[a	fixed	body	]
+fixed4
+(fixed	a	offer	not	)
+[fixed	body	of	doctrine	]
+body1
+(body	)
+[body	]
+of5
+(of	body	fixed	a	offer	)
+[of	doctrine	from	a	single	]
+doctrine3
+(doctrine	of	body	)
+[doctrine	from	a	]
+from1
+(from	)
+[from	]
+a3
+(a	from	doctrine	)
+[a	single	particular	]
+single2
+(single	a	)
+[single	particular	]
+particular3
+(particular	single	a	)
+[particular	world	view	]
+world3
+(world	particular	single	)
+[world	view	instead	]
+view5
+(view	world	particular	single	a	)
+[view	instead	fluxing	and	flowing	]
+instead1
+(instead	)
+[instead	]
+fluxing4
+(fluxing	instead	view	world	)
+[fluxing	and	flowing	as	]
+and1
+(and	)
+[and	]
+flowing2
+(flowing	and	)
+[flowing	as	]
+as4
+(as	flowing	and	fluxing	)
+[as	a	philosophy	There	]
+a2
+(a	as	)
+[a	philosophy	]
+philosophy5
+(philosophy	a	as	flowing	and	)
+[philosophy	There	are	many	types	]
+There5
+(There	philosophy	a	as	flowing	)
+[There	are	many	types	and	]
+are5
+(are	There	philosophy	a	as	)
+[are	many	types	and	traditions	]
+many5
+(many	are	There	philosophy	a	)
+[many	types	and	traditions	of	]
+types3
+(types	many	are	)
+[types	and	traditions	]
+and1
+(and	)
+[and	]
+traditions3
+(traditions	and	types	)
+[traditions	of	anarchism	]
+of5
+(of	traditions	and	types	many	)
+[of	anarchism	not	all	of	]
+anarchism2
+(anarchism	of	)
+[anarchism	not	]
+not2
+(not	anarchism	)
+[not	all	]
+all4
+(all	not	anarchism	of	)
+[all	of	which	are	]
+of3
+(of	all	not	)
+[of	which	are	]
+which3
+(which	of	all	)
+[which	are	mutually	]
+are4
+(are	which	of	all	)
+[are	mutually	exclusive	Anarchist	]
+mutually4
+(mutually	are	which	of	)
+[mutually	exclusive	Anarchist	schools	]
+exclusive2
+(exclusive	mutually	)
+[exclusive	Anarchist	]
+Anarchist5
+(Anarchist	exclusive	mutually	are	which	)
+[Anarchist	schools	of	thought	can	]
+schools3
+(schools	Anarchist	exclusive	)
+[schools	of	thought	]
+of5
+(of	schools	Anarchist	exclusive	mutually	)
+[of	thought	can	differ	fundamentally	]
+thought1
+(thought	)
+[thought	]
+can4
+(can	thought	of	schools	)
+[can	differ	fundamentally	supporting	]
+differ1
+(differ	)
+[differ	]
+fundamentally5
+(fundamentally	differ	can	thought	of	)
+[fundamentally	supporting	anything	from	extreme	]
+supporting5
+(supporting	fundamentally	differ	can	thought	)
+[supporting	anything	from	extreme	individualism	]
+anything3
+(anything	supporting	fundamentally	)
+[anything	from	extreme	]
+from2
+(from	anything	)
+[from	extreme	]
+extreme1
+(extreme	)
+[extreme	]
+individualism1
+(individualism	)
+[individualism	]
+to3
+(to	individualism	extreme	)
+[to	complete	collectivism	]
+complete4
+(complete	to	individualism	extreme	)
+[complete	collectivism	Strains	of	]
+collectivism2
+(collectivism	complete	)
+[collectivism	Strains	]
+Strains1
+(Strains	)
+[Strains	]
+of1
+(of	)
+[of	]
+anarchism5
+(anarchism	of	Strains	collectivism	complete	)
+[anarchism	have	often	been	divided	]
+have5
+(have	anarchism	of	Strains	collectivism	)
+[have	often	been	divided	into	]
+often3
+(often	have	anarchism	)
+[often	been	divided	]
+been1
+(been	)
+[been	]
+divided4
+(divided	been	often	have	)
+[divided	into	the	categories	]
+into3
+(into	divided	been	)
+[into	the	categories	]
+the2
+(the	into	)
+[the	categories	]
+categories4
+(categories	the	into	divided	)
+[categories	of	social	and	]
+of4
+(of	categories	the	into	)
+[of	social	and	individualist	]
+social4
+(social	of	categories	the	)
+[social	and	individualist	anarchism	]
+and2
+(and	social	)
+[and	individualist	]
+individualist1
+(individualist	)
+[individualist	]
+anarchism3
+(anarchism	individualist	and	)
+[anarchism	or	similar	]
+or4
+(or	anarchism	individualist	and	)
+[or	similar	dual	classifications	]
+similar1
+(similar	)
+[similar	]
+dual2
+(dual	similar	)
+[dual	classifications	]
+classifications1
+(classifications	)
+[classifications	]
+Anarchism4
+(Anarchism	classifications	dual	similar	)
+[Anarchism	is	usually	considered	]
+is3
+(is	Anarchism	classifications	)
+[is	usually	considered	]
+usually1
+(usually	)
+[usually	]
+considered4
+(considered	usually	is	Anarchism	)
+[considered	a	radical	left-wing	]
+a4
+(a	considered	usually	is	)
+[a	radical	left-wing	ideology	]
+radical2
+(radical	a	)
+[radical	left-wing	]
+left-wing1
+(left-wing	)
+[left-wing	]
+ideology2
+(ideology	left-wing	)
+[ideology	and	]
+and4
+(and	ideology	left-wing	radical	)
+[and	much	of	anarchist	]
+much2
+(much	and	)
+[much	of	]
+of4
+(of	much	and	ideology	)
+[of	anarchist	economics	and	]
+anarchist5
+(anarchist	of	much	and	ideology	)
+[anarchist	economics	and	anarchist	legal	]
+economics3
+(economics	anarchist	of	)
+[economics	and	anarchist	]
+and4
+(and	economics	anarchist	of	)
+[and	anarchist	legal	philosophy	]
+anarchist4
+(anarchist	and	economics	anarchist	)
+[anarchist	legal	philosophy	reflect	]
+legal1
+(legal	)
+[legal	]
+philosophy5
+(philosophy	legal	anarchist	and	economics	)
+[philosophy	reflect	anti-authoritarian	interpretations	of	]
+reflect3
+(reflect	philosophy	legal	)
+[reflect	anti-authoritarian	interpretations	]
+anti-authoritarian5
+(anti-authoritarian	reflect	philosophy	legal	anarchist	)
+[anti-authoritarian	interpretations	of	communism	collectivism	]
+interpretations1
+(interpretations	)
+[interpretations	]
+of1
+(of	)
+[of	]
+communism3
+(communism	of	interpretations	)
+[communism	collectivism	syndicalism	]
+collectivism5
+(collectivism	communism	of	interpretations	anti-authoritarian	)
+[collectivism	syndicalism	mutualism	or	participatory	]
+syndicalism1
+(syndicalism	)
+[syndicalism	]
+mutualism4
+(mutualism	syndicalism	collectivism	communism	)
+[mutualism	or	participatory	economics	]
+or2
+(or	mutualism	)
+[or	participatory	]
+participatory4
+(participatory	or	mutualism	syndicalism	)
+[participatory	economics	The	central	]
+economics3
+(economics	participatory	or	)
+[economics	The	central	]
+The2
+(The	economics	)
+[The	central	]
+central3
+(central	The	economics	)
+[central	tendency	of	]
+tendency2
+(tendency	central	)
+[tendency	of	]
+of3
+(of	tendency	central	)
+[of	anarchism	as	]
+anarchism4
+(anarchism	of	tendency	central	)
+[anarchism	as	a	social	]
+as4
+(as	anarchism	of	tendency	)
+[as	a	social	movement	]
+a3
+(a	as	anarchism	)
+[a	social	movement	]
+social4
+(social	a	as	anarchism	)
+[social	movement	has	been	]
+movement3
+(movement	social	a	)
+[movement	has	been	]
+has2
+(has	movement	)
+[has	been	]
+been2
+(been	has	)
+[been	represented	]
+represented4
+(represented	been	has	movement	)
+[represented	by	anarcho-communism	and	]
+by4
+(by	represented	been	has	)
+[by	anarcho-communism	and	anarcho-syndicalism	]
+anarcho-communism3
+(anarcho-communism	by	represented	)
+[anarcho-communism	and	anarcho-syndicalism	]
+and1
+(and	)
+[and	]
+anarcho-syndicalism4
+(anarcho-syndicalism	and	anarcho-communism	by	)
+[anarcho-syndicalism	with	individualist	anarchism	]
+with3
+(with	anarcho-syndicalism	and	)
+[with	individualist	anarchism	]
+individualist4
+(individualist	with	anarcho-syndicalism	and	)
+[individualist	anarchism	being	primarily	]
+anarchism1
+(anarchism	)
+[anarchism	]
+being1
+(being	)
+[being	]
+primarily4
+(primarily	being	anarchism	individualist	)
+[primarily	a	literary	phenomenon	]
+a2
+(a	primarily	)
+[a	literary	]
+literary5
+(literary	a	primarily	being	anarchism	)
+[literary	phenomenon	which	nevertheless	did	]
+phenomenon3
+(phenomenon	literary	a	)
+[phenomenon	which	nevertheless	]
+which5
+(which	phenomenon	literary	a	primarily	)
+[which	nevertheless	did	have	an	]
+nevertheless3
+(nevertheless	which	phenomenon	)
+[nevertheless	did	have	]
+did2
+(did	nevertheless	)
+[did	have	]
+have4
+(have	did	nevertheless	which	)
+[have	an	impact	on	]
+an2
+(an	have	)
+[an	impact	]
+impact4
+(impact	an	have	did	)
+[impact	on	the	bigger	]
+on3
+(on	impact	an	)
+[on	the	bigger	]
+the4
+(the	on	impact	an	)
+[the	bigger	currents	and	]
+bigger3
+(bigger	the	on	)
+[bigger	currents	and	]
+currents2
+(currents	bigger	)
+[currents	and	]
+and5
+(and	currents	bigger	the	on	)
+[and	individualists	have	also	participated	]
+individualists2
+(individualists	and	)
+[individualists	have	]
+have4
+(have	individualists	and	currents	)
+[have	also	participated	in	]
+also4
+(also	have	individualists	and	)
+[also	participated	in	large	]
+participated3
+(participated	also	have	)
+[participated	in	large	]
+in1
+(in	)
+[in	]
+large3
+(large	in	participated	)
+[large	anarchist	organisations	]
+anarchist3
+(anarchist	large	in	)
+[anarchist	organisations	Many	]
+organisations4
+(organisations	anarchist	large	in	)
+[organisations	Many	anarchists	oppose	]
+Many4
+(Many	organisations	anarchist	large	)
+[Many	anarchists	oppose	all	]
+anarchists1
+(anarchists	)
+[anarchists	]
+oppose2
+(oppose	anarchists	)
+[oppose	all	]
+all3
+(all	oppose	anarchists	)
+[all	forms	of	]
+forms2
+(forms	all	)
+[forms	of	]
+of1
+(of	)
+[of	]
+aggression2
+(aggression	of	)
+[aggression	supporting	]
+supporting2
+(supporting	aggression	)
+[supporting	self-defense	]
+self-defense1
+(self-defense	)
+[self-defense	]
+or3
+(or	self-defense	supporting	)
+[or	non-violence	anarcho-pacifism)	]
+non-violence5
+(non-violence	or	self-defense	supporting	aggression	)
+[non-violence	anarcho-pacifism)	while	others	have	]
+anarcho-pacifism)5
+(anarcho-pacifism)	non-violence	or	self-defense	supporting	)
+[anarcho-pacifism)	while	others	have	supported	]
+while1
+(while	)
+[while	]
+others2
+(others	while	)
+[others	have	]
+have3
+(have	others	while	)
+[have	supported	the	]
+supported1
+(supported	)
+[supported	]
+the5
+(the	supported	have	others	while	)
+[the	use	of	some	coercive	]
+use4
+(use	the	supported	have	)
+[use	of	some	coercive	]
+of3
+(of	use	the	)
+[of	some	coercive	]
+some2
+(some	of	)
+[some	coercive	]
+coercive4
+(coercive	some	of	use	)
+[coercive	measures	including	violent	]
+measures5
+(measures	coercive	some	of	use	)
+[measures	including	violent	revolution	and	]
+including3
+(including	measures	coercive	)
+[including	violent	revolution	]
+violent5
+(violent	including	measures	coercive	some	)
+[violent	revolution	and	propaganda	of	]
+revolution3
+(revolution	violent	including	)
+[revolution	and	propaganda	]
+and1
+(and	)
+[and	]
+propaganda2
+(propaganda	and	)
+[propaganda	of	]
+of1
+(of	)
+[of	]
+the3
+(the	of	propaganda	)
+[the	deed	as	]
+deed1
+(deed	)
+[deed	]
+as4
+(as	deed	the	of	)
+[as	means	to	achieve	]
+means1
+(means	)
+[means	]
+to3
+(to	means	as	)
+[to	achieve	anarchist	]
+achieve3
+(achieve	to	means	)
+[achieve	anarchist	ends	]
+anarchist4
+(anarchist	achieve	to	means	)
+[anarchist	ends	Etymology	and	]
+ends1
+(ends	)
+[ends	]
+Etymology2
+(Etymology	ends	)
+[Etymology	and	]
+and1
+(and	)
+[and	]
+terminology5
+(terminology	and	Etymology	ends	anarchist	)
+[terminology	]
