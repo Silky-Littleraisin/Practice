@@ -1,4 +1,4 @@
-# coding: utf-8
+﻿# coding: utf-8
 import gzip
 import json
 import leveldb
@@ -8,7 +8,7 @@ fname = 'artist.json.gz'
 fname_db = 'test_db'
 client=pymongo.MongoClient(host='localhost', port=27017)
 
-mongo_db=client.mongo
+#mongo_db=client.mongo
 mongo_db.collection1
 collection=mongo_db.collection1
 
