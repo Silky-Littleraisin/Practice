@@ -12,7 +12,6 @@ mongo_db=client.mongo
 mongo_db.collection1
 collection=mongo_db.collection1
 
-
 with gzip.open(fname, 'rt') as data_file:
     for line in data_file:
         data_json = json.loads(line)
