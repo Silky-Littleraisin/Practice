@@ -1,4 +1,5 @@
 ﻿# coding utf-8
+
 import re
 
 fname = 'nlp.txt'
