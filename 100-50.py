@@ -11,8 +11,7 @@ def nlp_lines():
 
 
     with open(fname) as lines:
-        
-pattern = re.compile(r'''
+        pattern = re.compile(r'''
         (^
         .*?
         [\.|;|:|\?|!]
