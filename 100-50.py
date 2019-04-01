@@ -20,7 +20,7 @@ def nlp_lines():
         (
             [A-Z].*
         )
-        #''',re.MULTILINE+re.VERBOSE + re.DOTALL)
+        ''',re.MULTILINE+re.VERBOSE + re.DOTALL)
 
         for line in lines:
             line = line.strip()
