@@ -22,7 +22,7 @@ def nlp_lines():
         )
         ''',re.MULTILINE+re.VERBOSE + re.DOTALL)
 
-        #for line in lines:
+        for line in lines:
             line = line.strip()
             while len(line) > 0:
 
