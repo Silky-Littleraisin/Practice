@@ -27,7 +27,7 @@ def nlp_lines():
             while len(line) > 0:
 
                 match= pattern.match(line)
-                if match:
+                #if match:
 
                     yield match.group(1)
                     line=match.group(2)
