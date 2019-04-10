@@ -13,7 +13,7 @@ mongo_db.collection1
 collection=mongo_db.collection1
 
 
-#with gzip.open(fname, 'rt') as data_file:
+with gzip.open(fname, 'rt') as data_file:
     for line in data_file:
         data_json = json.loads(line)
         #每个data_file如果list内值多于一就复制值的数量的分身，然后每个分配一个list使其成为单值
