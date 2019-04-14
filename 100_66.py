@@ -25,4 +25,5 @@ with gzip.open(fname, 'rt') as data_file:
 collection.create_index([("name",pymongo.ASCENDING),("rating.value",pymongo.ASCENDING)])
 
 result=collection.find_one({"name":'Queen'})
+
 print (result)
