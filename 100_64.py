@@ -2,7 +2,7 @@
 import gzip
 import json
 import leveldb
-import pymongo
+#import pymongo
 
 fname = 'artist.json.gz'
 fname_db = 'test_db'
