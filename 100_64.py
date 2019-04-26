@@ -5,6 +5,7 @@ import leveldb
 import pymongo
 
 fname = 'artist.json.gz'
+
 fname_db = 'test_db'
 client=pymongo.MongoClient(host='localhost', port=27017)
 
