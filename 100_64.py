@@ -6,7 +6,7 @@ import pymongo
 
 fname = 'artist.json.gz'
 fname_db = 'test_db'
-#client=pymongo.MongoClient(host='localhost', port=27017)
+client=pymongo.MongoClient(host='localhost', port=27017)
 
 mongo_db=client.mongo
 mongo_db.collection1
