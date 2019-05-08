@@ -4,6 +4,7 @@ import json
 import leveldb
 
 fname = 'artist.json.gz'
+
 fname_db = 'test_db'
 
 # LevelDBオープン、なければ作成
