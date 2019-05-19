@@ -13,7 +13,8 @@ import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from scipy.sparse.csgraph import connected_components
 
-DIRS = ['dokujo-tsushin', 'movie-enter', 'it-life-hack']
+DIRS = ['dokujo-tsushin', 'movie-enter', 'it-life-hack','kaden-channel','livedoor-homme','peachy','smax',
+        'sports-watch','topic-news']
 tagger = MeCab.Tagger("-Ochasen")
 sns.set()
 
@@ -35,11 +36,11 @@ def mecab_tokenizer(text):
 
 def main():
     # 単なる単語頻度によるベクトル化
-    vectorizer = CountVectorizer(tokenizer=mecab_tokenizer)
+    vectorizer2 = CountVectorizer(tokenizer=mecab_tokenizer)
 
     # tf-idfベクトル化変数(正規化はL2, tfにlogを用いる)
-    # vectorizer = TfidfVectorizer(norm='l2', sublinear_tf=True,
-    #                             tokenizer=mecab_tokenizer)
+    vectorizer1 = TfidfVectorizer(norm='l2', sublinear_tf=True,
+                                 tokenizer=mecab_tokenizer)
 
     text_list = []
     dir_list = []
@@ -54,18 +55,22 @@ def main():
                 dir_list.append(d)
 
     # テキストデータのベクトル化
-    weighted_matrix = vectorizer.fit_transform(text_list)
+    def showump(vectorizer):
+      weighted_matrix = vectorizer.fit_transform(text_list)
     # umapによる次元削減
-    embedding = umap.UMAP().fit_transform(weighted_matrix.toarray())
+      embedding = umap.UMAP().fit_transform(weighted_matrix.toarray())
 
     # seabornでの描画のためにpandasのDataFrameに結果を変換
-    df = pd.DataFrame()
-    df['x'] = embedding[:,0]
-    df['y'] = embedding[:,1]
-    df['label'] = dir_list
+      df = pd.DataFrame()
+      df['x'] = embedding[:,0]
+      df['y'] = embedding[:,1]
+      df['label'] = dir_list
     # 散布図を描画
-    sns.lmplot('x', 'y', data=df, hue="label", fit_reg=False)
-    plt.show()
+      sns.lmplot('x', 'y', data=df, hue="label", fit_reg=False)
+      plt.show()
+    showump(vectorizer1)
+    showump(vectorizer2)
+
 
 if __name__ == '__main__':
     main()
