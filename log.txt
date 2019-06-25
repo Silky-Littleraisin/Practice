@@ -1,0 +1,2 @@
+whoosh 的搜索结果顺序根据surround数值会发生变化与切分/结合，同一surround值下固定hightlight。FIRST可使顺序固定
+query的用法，未解决
