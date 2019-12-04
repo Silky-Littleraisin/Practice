@@ -12,7 +12,7 @@ subscription_key = "96b0ed201512488f8258279f7a007deb"
 ocr_url = "https://westcentralus.api.cognitive.microsoft.com/vision/v2.0/ocr"
 
 # 画像ファイルの読み込み
-file_name = sys.argv[1]
+file_name = '956586-025.jpg'
 file_data = open(file_name, 'rb').read()
 
 # APIに送るパラメーター
@@ -24,4 +24,8 @@ response = requests.post(ocr_url, headers=headers, params=params, files=files)
 response.raise_for_status()
 
 analysis = response.json()
+with open('MS/956586-025.json','w') as obj:
+    obj.writelines(json.dumps(analysis, ensure_ascii=False))
+
 print(json.dumps(analysis, ensure_ascii=False))
+python3 hocr-pdf MS > 956586-025-ms.pdf
